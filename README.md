@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning dsa/java/node.js
 - 💞️ I’m looking to collaborate on uber, devops
-- 📫 How to reach me krishnendughosal12@gamil.com
 - ⚡ Fun fact: ... only me
 
 <!---
